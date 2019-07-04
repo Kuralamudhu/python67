@@ -1,4 +1,4 @@
-b,num=intput().split()
-num=int(num)
-for i in range (num):
+b,state=intput().split()
+num=int(state)
+for i in range (state):
   print(b)
